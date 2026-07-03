@@ -749,6 +749,7 @@ At the same time, the case demonstrates the central weakness of many early UFO m
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1.<a id="endnote-1"></a>

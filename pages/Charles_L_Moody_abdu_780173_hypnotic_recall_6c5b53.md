@@ -757,6 +757,7 @@ What remains unresolved is that the key evidence for the abduction itself ultima
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1.<a id="endnote-1"></a>

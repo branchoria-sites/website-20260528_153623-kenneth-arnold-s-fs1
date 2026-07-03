@@ -787,6 +787,7 @@ The evidence trail is therefore unusual but not mysterious in the supernatural s
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1.<a id="endnote-1"></a>

@@ -1223,6 +1223,7 @@ The Alan Godfrey encounter therefore remains best understood as an unresolved wi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1.<a id="endnote-1"></a>

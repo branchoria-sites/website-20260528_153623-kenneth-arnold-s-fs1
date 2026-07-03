@@ -791,6 +791,7 @@ Today, planetary defence planning treats airbursts as a serious hazard precisely
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1.<a id="endnote-1"></a>

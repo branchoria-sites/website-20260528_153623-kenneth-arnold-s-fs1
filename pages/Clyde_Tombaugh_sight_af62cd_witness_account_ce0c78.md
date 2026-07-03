@@ -786,6 +786,7 @@ That tension is why Tombaugh’s testimony still matters more than many better-k
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1.<a id="endnote-1"></a>
