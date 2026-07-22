@@ -367,89 +367,89 @@ Supporters of the abduction hypothesis argue that this explanation leaves import
 What remains unresolved is that the key evidence for the abduction itself ultimately depends almost entirely on recovered memory. There are no publicly available official investigations, independent witnesses, recordings or physical artefacts that verify the reconstructed narrative. That makes the reliability of hypnotic recall central to how the Charles L. Moody case is judged.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can Hypnosis Explain the Abduction Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can Hypnosis Explain the Abduction Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-</h4>
-<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
-        
-<p class="fr-book-desc">Explains how suggestion, confabulation, and self-directed relaxation loops create vivid but completely false narratives of physical medic...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-</h4>
-<p class="fr-book-author">By John E. Mack, Mack</p>
-        
-<p class="fr-book-desc">Examines the clinical profile of narrative expansion patterns that occur when a solitary witness attempts to recover several missing hours.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how suggestion, confabulation, and self-directed relaxation loops create vivid but completely false narratives of physical medic...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
-</h4>
-<p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
-        
-<p class="fr-book-desc">Traces the structural patterns of 1970s abduction accounts that developed gradually over days following an initial roadside alert.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-</h4>
-<p class="fr-book-author">By Budd Hopkins</p>
-        
-<p class="fr-book-desc">Details the precise timeline phase where a simple glowing disc sighting morphs over weeks into complex claims of bodily paralysis.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines the clinical profile of narrative expansion patterns that occur when a solitary witness attempts to recover several missing hours.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+        </h4>
+        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+
+        <p class="fr-book-desc">Traces the structural patterns of 1970s abduction accounts that developed gradually over days following an initial roadside alert.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+
+        <p class="fr-book-desc">Details the precise timeline phase where a simple glowing disc sighting morphs over weeks into complex claims of bodily paralysis.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
