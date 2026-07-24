@@ -123,13 +123,13 @@ description: The Rendlesham Forest incident was a cluster of reported strange-li
 hero_summary: The Rendlesham Forest incident was a cluster of reported strange-light sightings near RAF Woodbridge and RAF Bentwaters in Suffolk in late December 1980. It matters because the core witnesses were US Air Force personnel, one senior officer filed an official memorandum, and the case produced a rare paper trail in Ministry of Defence files.
 layout: default
 permalink: /rendlesham-forest-incident-1980/
-nav_short_title: What Really Happened in Rendlesham Forest?
-title: What Really Happened in Rendlesham Forest?
-title_full: What Really Happened in Rendlesham Forest?
-display_title_short: What Really Happened in Rendlesham Forest?
-display_title: What Really Happened in Rendlesham Forest?
-heading_title: What Really Happened in Rendlesham Forest?
-page_heading_title: What Really Happened in Rendlesham Forest?
+nav_short_title: "The Rendlesham Forest Case"
+title: "The Rendlesham Forest Case"
+title_full: "The Rendlesham Forest Case"
+display_title_short: "The Rendlesham Forest Case"
+display_title: "The Rendlesham Forest Case"
+heading_title: "The Rendlesham Forest Case"
+page_heading_title: "The Rendlesham Forest Case"
 source_count: 74
 infographic_count: 3
 page_website_name: Rendlesham

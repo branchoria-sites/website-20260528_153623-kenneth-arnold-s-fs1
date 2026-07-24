@@ -123,13 +123,13 @@ description: The case usually called the “Lady” animal mutilation is better 
 hero_summary: The case usually called the “Lady” animal mutilation is better known in UFO literature as “Snippy the horse”. The date in many reliable accounts is not 1966 but September 1967, near Alamosa in Colorado’s San Luis Valley.
 layout: default
 permalink: /lady-animal-mutilation-1966/
-nav_short_title: What Really Happened to Lady the Horse?
-title: What Really Happened to Lady the Horse?
-title_full: What Really Happened to Lady the Horse?
-display_title_short: What Really Happened to Lady the Horse?
-display_title: What Really Happened to Lady the Horse?
-heading_title: What Really Happened to Lady the Horse?
-page_heading_title: What Really Happened to Lady the Horse?
+nav_short_title: "Lady the Horse: The Case Record"
+title: "Lady the Horse: The Case Record"
+title_full: "Lady the Horse: The Case Record"
+display_title_short: "Lady the Horse: The Case Record"
+display_title: "Lady the Horse: The Case Record"
+heading_title: "Lady the Horse: The Case Record"
+page_heading_title: "Lady the Horse: The Case Record"
 source_count: 89
 infographic_count: 3
 page_website_name: Snippy

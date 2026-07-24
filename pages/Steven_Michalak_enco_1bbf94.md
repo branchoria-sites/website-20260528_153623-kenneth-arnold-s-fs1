@@ -123,13 +123,13 @@ description: The Steven Michalak encounter of 1967, usually known as the Falcon 
 hero_summary: The Steven Michalak encounter of 1967, usually known as the Falcon Lake incident, is one of Canada’s most discussed UFO cases because it combines a detailed witness narrative with physical injuries, damaged clothing, official files and later radioactive-sample claims.
 layout: default
 permalink: /steven-michalak-encounter-1967/
-nav_short_title: What Really Happened at Falcon Lake?
-title: What Really Happened at Falcon Lake?
-title_full: What Really Happened at Falcon Lake?
-display_title_short: What Really Happened at Falcon Lake?
-display_title: What Really Happened at Falcon Lake?
-heading_title: What Really Happened at Falcon Lake?
-page_heading_title: What Really Happened at Falcon Lake?
+nav_short_title: "Falcon Lake: The Evidence"
+title: "Falcon Lake: The Evidence"
+title_full: "Falcon Lake: The Evidence"
+display_title_short: "Falcon Lake: The Evidence"
+display_title: "Falcon Lake: The Evidence"
+heading_title: "Falcon Lake: The Evidence"
+page_heading_title: "Falcon Lake: The Evidence"
 source_count: 70
 infographic_count: 3
 page_website_name: Falcon Lake

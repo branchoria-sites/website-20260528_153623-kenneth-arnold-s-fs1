@@ -123,13 +123,13 @@ description: The Trans-en-Provence encounter was a 8 January 1981 UFO report fro
 hero_summary: The Trans-en-Provence encounter was a 8 January 1981 UFO report from a property near Trans-en-Provence in the Var department of south-eastern France.
 layout: default
 permalink: /trans-en-provence-encounter-1981/
-nav_short_title: What Really Happened at Trans en Provence?
-title: What Really Happened at Trans en Provence?
-title_full: What Really Happened at Trans en Provence?
-display_title_short: What Really Happened at Trans en Provence?
-display_title: What Really Happened at Trans en Provence?
-heading_title: What Really Happened at Trans en Provence?
-page_heading_title: What Really Happened at Trans en Provence?
+nav_short_title: "Trans en Provence: The Evidence"
+title: "Trans en Provence: The Evidence"
+title_full: "Trans en Provence: The Evidence"
+display_title_short: "Trans en Provence: The Evidence"
+display_title: "Trans en Provence: The Evidence"
+heading_title: "Trans en Provence: The Evidence"
+page_heading_title: "Trans en Provence: The Evidence"
 source_count: 69
 infographic_count: 3
 page_website_name: Trans en Provence

@@ -123,13 +123,13 @@ description: The 1976 Tehran jet chase is one of the better-documented UFO cases
 hero_summary: The 1976 Tehran jet chase is one of the better-documented UFO cases because it combined civilian reports, air-traffic involvement, two scrambled Imperial Iranian Air Force F-4 Phantom II interceptors, claimed radar contact, reported aircraft-system failures, press coverage, and a U.S. military-intelligence cable that was later released.
 layout: default
 permalink: /jet-chase-near-tehran-iran-1976/
-nav_short_title: What Really Happened Over Tehran?
-title: What Really Happened Over Tehran?
-title_full: What Really Happened Over Tehran?
-display_title_short: What Really Happened Over Tehran?
-display_title: What Really Happened Over Tehran?
-heading_title: What Really Happened Over Tehran?
-page_heading_title: What Really Happened Over Tehran?
+nav_short_title: "The Tehran Sighting Record"
+title: "The Tehran Sighting Record"
+title_full: "The Tehran Sighting Record"
+display_title_short: "The Tehran Sighting Record"
+display_title: "The Tehran Sighting Record"
+heading_title: "The Tehran Sighting Record"
+page_heading_title: "The Tehran Sighting Record"
 source_count: 49
 infographic_count: 3
 page_website_name: Tehran UFO

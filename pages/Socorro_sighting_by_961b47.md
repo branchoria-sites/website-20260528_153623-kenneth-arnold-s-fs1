@@ -123,13 +123,13 @@ description: The Socorro sighting by Lonnie Zamora is one of the most durable UF
 hero_summary: The Socorro sighting by Lonnie Zamora is one of the most durable UFO cases of the Project Blue Book era because it combines a close-range police-witness report, rapid official attention, and physical trace claims at the alleged landing site.
 layout: default
 permalink: /socorro-sighting-by-lonnie-zamora-1964/
-nav_short_title: What Really Happened at Socorro?
-title: What Really Happened at Socorro?
-title_full: What Really Happened at Socorro?
-display_title_short: What Really Happened at Socorro?
-display_title: What Really Happened at Socorro?
-heading_title: What Really Happened at Socorro?
-page_heading_title: What Really Happened at Socorro?
+nav_short_title: "Socorro: The Evidence"
+title: "Socorro: The Evidence"
+title_full: "Socorro: The Evidence"
+display_title_short: "Socorro: The Evidence"
+display_title: "Socorro: The Evidence"
+heading_title: "Socorro: The Evidence"
+page_heading_title: "Socorro: The Evidence"
 source_count: 18
 infographic_count: 3
 page_website_name: Socorro UFO

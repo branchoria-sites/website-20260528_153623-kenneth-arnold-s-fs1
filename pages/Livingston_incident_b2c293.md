@@ -123,13 +123,13 @@ description: The Livingston incident of 1979, also known as the Robert Taylor in
 hero_summary: The Livingston incident of 1979, also known as the Robert Taylor incident or the Dechmont Woods encounter, is one of Britain’s most unusual UFO cases because it began not as a sky sighting but as a reported assault in woodland near Livingston, West Lothian.
 layout: default
 permalink: /livingston-incident-1979/
-nav_short_title: What Really Happened During the Livingston UFO...
-title: What Really Happened During the Livingston UFO Encounter?
-title_full: What Really Happened During the Livingston UFO Encounter?
-display_title_short: What Really Happened During the Livingston UFO...
-display_title: What Really Happened During the Livingston UFO...
-heading_title: What Really Happened During the Livingston UFO Encounter?
-page_heading_title: What Really Happened During the Livingston UFO Encounter?
+nav_short_title: "the Livingston UFO Encounter: The Case Record"
+title: "the Livingston UFO Encounter: The Case Record"
+title_full: "the Livingston UFO Encounter: The Case Record"
+display_title_short: "the Livingston UFO Encounter: The Case Record"
+display_title: "the Livingston UFO Encounter: The Case Record"
+heading_title: "the Livingston UFO Encounter: The Case Record"
+page_heading_title: "the Livingston UFO Encounter: The Case Record"
 source_count: 78
 infographic_count: 3
 page_website_name: Livingston UFO

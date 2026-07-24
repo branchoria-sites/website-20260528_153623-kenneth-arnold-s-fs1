@@ -123,13 +123,13 @@ description: The Kelly-Hopkinsville incident was a reported night-time siege at 
 hero_summary: The Kelly-Hopkinsville incident was a reported night-time siege at a rural farmhouse near Kelly, Kentucky, on 21–22 August 1955.
 layout: default
 permalink: /kelly-hopkinsville-incident-1955/
-nav_short_title: What Really Happened at Kelly Hopkinsville?
-title: What Really Happened at Kelly Hopkinsville?
-title_full: What Really Happened at Kelly Hopkinsville?
-display_title_short: What Really Happened at Kelly Hopkinsville?
-display_title: What Really Happened at Kelly Hopkinsville?
-heading_title: What Really Happened at Kelly Hopkinsville?
-page_heading_title: What Really Happened at Kelly Hopkinsville?
+nav_short_title: "Kelly Hopkinsville: The Evidence"
+title: "Kelly Hopkinsville: The Evidence"
+title_full: "Kelly Hopkinsville: The Evidence"
+display_title_short: "Kelly Hopkinsville: The Evidence"
+display_title: "Kelly Hopkinsville: The Evidence"
+heading_title: "Kelly Hopkinsville: The Evidence"
+page_heading_title: "Kelly Hopkinsville: The Evidence"
 source_count: 141
 infographic_count: 3
 page_website_name: Kelly Hopkinsville

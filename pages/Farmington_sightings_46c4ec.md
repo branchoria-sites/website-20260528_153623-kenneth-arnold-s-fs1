@@ -123,13 +123,13 @@ description: In March 1950, the small city of Farmington, New Mexico, became the
 hero_summary: In March 1950, the small city of Farmington, New Mexico, became the focus of one of the most high‑profile mass sightings of unidentified aerial phenomena in the early UFO era.
 layout: default
 permalink: /farmington-sightings-1950/
-nav_short_title: What Really Happened Over Farmington?
-title: What Really Happened Over Farmington?
-title_full: What Really Happened Over Farmington?
-display_title_short: What Really Happened Over Farmington?
-display_title: What Really Happened Over Farmington?
-heading_title: What Really Happened Over Farmington?
-page_heading_title: What Really Happened Over Farmington?
+nav_short_title: "The Farmington Sighting Record"
+title: "The Farmington Sighting Record"
+title_full: "The Farmington Sighting Record"
+display_title_short: "The Farmington Sighting Record"
+display_title: "The Farmington Sighting Record"
+heading_title: "The Farmington Sighting Record"
+page_heading_title: "The Farmington Sighting Record"
 source_count: 22
 infographic_count: 3
 page_website_name: Farmington Armada

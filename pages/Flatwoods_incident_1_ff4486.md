@@ -123,13 +123,13 @@ description: The Flatwoods incident was a reported UFO-and-creature encounter ne
 hero_summary: The Flatwoods incident was a reported UFO-and-creature encounter near Flatwoods, Braxton County, West Virginia, on 12 September 1952. A group of local children and adults said they followed a bright object that seemed to fall beyond a hill, then briefly saw a tall, red-faced, hooded figure in a misty, foul-smelling area.
 layout: default
 permalink: /flatwoods-incident-1952/
-nav_short_title: What Really Happened at Flatwoods?
-title: What Really Happened at Flatwoods?
-title_full: What Really Happened at Flatwoods?
-display_title_short: What Really Happened at Flatwoods?
-display_title: What Really Happened at Flatwoods?
-heading_title: What Really Happened at Flatwoods?
-page_heading_title: What Really Happened at Flatwoods?
+nav_short_title: "Flatwoods: The Evidence"
+title: "Flatwoods: The Evidence"
+title_full: "Flatwoods: The Evidence"
+display_title_short: "Flatwoods: The Evidence"
+display_title: "Flatwoods: The Evidence"
+heading_title: "Flatwoods: The Evidence"
+page_heading_title: "Flatwoods: The Evidence"
 source_count: 100
 infographic_count: 3
 page_website_name: Flatwoods

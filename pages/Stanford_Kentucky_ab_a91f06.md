@@ -123,13 +123,13 @@ description: The Stanford, Kentucky abduction of 6 January 1976 is a UFO case bu
 hero_summary: The Stanford, Kentucky abduction of 6 January 1976 is a UFO case built around three adult witnesses — Louise Smith, Mona Stafford and Elaine Thomas — who said that a late-night drive home from a birthday dinner turned into a close encounter, missing time and later memories of being taken from the car and examined.
 layout: default
 permalink: /stanford-kentucky-abduction-1976/
-nav_short_title: What Really Happened Near Stanford?
-title: What Really Happened Near Stanford?
-title_full: What Really Happened Near Stanford?
-display_title_short: What Really Happened Near Stanford?
-display_title: What Really Happened Near Stanford?
-heading_title: What Really Happened Near Stanford?
-page_heading_title: What Really Happened Near Stanford?
+nav_short_title: "The Stanford Encounter"
+title: "The Stanford Encounter"
+title_full: "The Stanford Encounter"
+display_title_short: "The Stanford Encounter"
+display_title: "The Stanford Encounter"
+heading_title: "The Stanford Encounter"
+page_heading_title: "The Stanford Encounter"
 source_count: 101
 infographic_count: 3
 page_website_name: Stanford Abduction

@@ -123,13 +123,13 @@ description: The Greenhaw encounter, better known as the Falkville “Metal Man�
 hero_summary: The Greenhaw encounter, better known as the Falkville “Metal Man” case, is a 17 October 1973 UFO-related report from Falkville, Alabama, in which police chief Jeff B. Greenhaw said he photographed a reflective, humanoid figure after responding to a call about a landed “spaceship”.
 layout: default
 permalink: /greenhaw-encounter-1973/
-nav_short_title: What Really Happened in Falkville?
-title: What Really Happened in Falkville?
-title_full: What Really Happened in Falkville?
-display_title_short: What Really Happened in Falkville?
-display_title: What Really Happened in Falkville?
-heading_title: What Really Happened in Falkville?
-page_heading_title: What Really Happened in Falkville?
+nav_short_title: "The Falkville Case"
+title: "The Falkville Case"
+title_full: "The Falkville Case"
+display_title_short: "The Falkville Case"
+display_title: "The Falkville Case"
+heading_title: "The Falkville Case"
+page_heading_title: "The Falkville Case"
 source_count: 84
 infographic_count: 3
 page_website_name: Falkville Metal Man

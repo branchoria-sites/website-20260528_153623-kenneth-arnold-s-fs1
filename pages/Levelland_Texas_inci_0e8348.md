@@ -123,13 +123,13 @@ description: The Levelland, Texas incident of 2–3 November 1957 is one of the 
 hero_summary: 'The Levelland, Texas incident of 2–3 November 1957 is one of the better-known American UFO cases because it joined two features that are hard to assess together: multiple independent-looking witness reports and repeated claims that vehicles stalled or lost lights when a luminous object was nearby.'
 layout: default
 permalink: /levelland-texas-incident-1957/
-nav_short_title: What Really Happened Near Levelland?
-title: What Really Happened Near Levelland?
-title_full: What Really Happened Near Levelland?
-display_title_short: What Really Happened Near Levelland?
-display_title: What Really Happened Near Levelland?
-heading_title: What Really Happened Near Levelland?
-page_heading_title: What Really Happened Near Levelland?
+nav_short_title: "The Levelland Encounter"
+title: "The Levelland Encounter"
+title_full: "The Levelland Encounter"
+display_title_short: "The Levelland Encounter"
+display_title: "The Levelland Encounter"
+heading_title: "The Levelland Encounter"
+page_heading_title: "The Levelland Encounter"
 source_count: 89
 infographic_count: 3
 page_website_name: Levelland UFO

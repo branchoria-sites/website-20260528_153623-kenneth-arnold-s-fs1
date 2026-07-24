@@ -123,13 +123,13 @@ description: The “Battle of Los Angeles” was not a battle in the ordinary se
 hero_summary: The “Battle of Los Angeles” was not a battle in the ordinary sense. In the early hours of 25 February 1942, Los Angeles County went into blackout, searchlights swept the sky, and anti-aircraft batteries fired more than 1,400 rounds at reported hostile aircraft. No bombs fell, no enemy aircraft were confirmed, and no wreckage was recovered.
 layout: default
 permalink: /battle-of-los-angeles-1942/
-nav_short_title: What Really Happened Over Los Angeles?
-title: What Really Happened Over Los Angeles?
-title_full: What Really Happened Over Los Angeles?
-display_title_short: What Really Happened Over Los Angeles?
-display_title: What Really Happened Over Los Angeles?
-heading_title: What Really Happened Over Los Angeles?
-page_heading_title: What Really Happened Over Los Angeles?
+nav_short_title: "The Los Angeles Sighting Record"
+title: "The Los Angeles Sighting Record"
+title_full: "The Los Angeles Sighting Record"
+display_title_short: "The Los Angeles Sighting Record"
+display_title: "The Los Angeles Sighting Record"
+heading_title: "The Los Angeles Sighting Record"
+page_heading_title: "The Los Angeles Sighting Record"
 source_count: 98
 infographic_count: 3
 page_website_name: Battle of Los Angeles

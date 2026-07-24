@@ -123,13 +123,13 @@ description: Japan Air Lines Flight 1628 is one of the best-documented aviation 
 hero_summary: Japan Air Lines Flight 1628 is one of the best-documented aviation UFO cases, but “best-documented” does not mean “proved extraterrestrial” or even “proved physical object”. On 17 November 1986, a three-person JAL cargo crew flying a Boeing 747 over Alaska reported lights and a large unknown object near the aircraft.
 layout: default
 permalink: /jal-1628-sighting-over-alaska-1986/
-nav_short_title: What Really Happened Over Alaska?
-title: What Really Happened Over Alaska?
-title_full: What Really Happened Over Alaska?
-display_title_short: What Really Happened Over Alaska?
-display_title: What Really Happened Over Alaska?
-heading_title: What Really Happened Over Alaska?
-page_heading_title: What Really Happened Over Alaska?
+nav_short_title: "The Alaska Sighting Record"
+title: "The Alaska Sighting Record"
+title_full: "The Alaska Sighting Record"
+display_title_short: "The Alaska Sighting Record"
+display_title: "The Alaska Sighting Record"
+heading_title: "The Alaska Sighting Record"
+page_heading_title: "The Alaska Sighting Record"
 source_count: 81
 infographic_count: 3
 page_website_name: JAL 1628

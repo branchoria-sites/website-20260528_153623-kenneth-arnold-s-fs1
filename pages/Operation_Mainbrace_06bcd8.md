@@ -123,13 +123,13 @@ description: The Operation Mainbrace sightings of September 1952 are best unders
 hero_summary: The Operation Mainbrace sightings of September 1952 are best understood as a cluster of military UFO reports made during a large NATO exercise, not as a single cleanly documented encounter.
 layout: default
 permalink: /operation-mainbrace-sightings-1952/
-nav_short_title: What Really Happened During the 1952 Mainbrace UFO...
-title: What Really Happened During the 1952 Mainbrace UFO Sightings?
-title_full: What Really Happened During the 1952 Mainbrace UFO Sightings?
-display_title_short: What Really Happened During the 1952 Mainbrace UFO...
-display_title: What Really Happened During the 1952 Mainbrace UFO...
-heading_title: What Really Happened During the 1952 Mainbrace UFO Sightings?
-page_heading_title: What Really Happened During the 1952 Mainbrace UFO Sightings?
+nav_short_title: "the 1952 Mainbrace UFO Sightings: The Case Record"
+title: "the 1952 Mainbrace UFO Sightings: The Case Record"
+title_full: "the 1952 Mainbrace UFO Sightings: The Case Record"
+display_title_short: "the 1952 Mainbrace UFO Sightings: The Case Record"
+display_title: "the 1952 Mainbrace UFO Sightings: The Case Record"
+heading_title: "the 1952 Mainbrace UFO Sightings: The Case Record"
+page_heading_title: "the 1952 Mainbrace UFO Sightings: The Case Record"
 source_count: 100
 infographic_count: 3
 page_website_name: Mainbrace Sightings

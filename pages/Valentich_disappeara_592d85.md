@@ -123,13 +123,13 @@ description: The Valentich disappearance was the loss of 20-year-old Australian 
 hero_summary: The Valentich disappearance was the loss of 20-year-old Australian pilot Frederick Valentich and Cessna 182L VH-DSJ over Bass Strait on 21 October 1978.
 layout: default
 permalink: /valentich-disappearance-1978/
-nav_short_title: What Really Happened Over Bass Strait?
-title: What Really Happened Over Bass Strait?
-title_full: What Really Happened Over Bass Strait?
-display_title_short: What Really Happened Over Bass Strait?
-display_title: What Really Happened Over Bass Strait?
-heading_title: What Really Happened Over Bass Strait?
-page_heading_title: What Really Happened Over Bass Strait?
+nav_short_title: "The Bass Strait Sighting Record"
+title: "The Bass Strait Sighting Record"
+title_full: "The Bass Strait Sighting Record"
+display_title_short: "The Bass Strait Sighting Record"
+display_title: "The Bass Strait Sighting Record"
+heading_title: "The Bass Strait Sighting Record"
+page_heading_title: "The Bass Strait Sighting Record"
 source_count: 62
 infographic_count: 3
 page_website_name: Valentich

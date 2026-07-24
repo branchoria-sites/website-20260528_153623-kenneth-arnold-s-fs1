@@ -123,13 +123,13 @@ description: The Reverend W. B. Gill sightings of June 1959 are among the best-k
 hero_summary: 'The Reverend W. B. Gill sightings of June 1959 are among the best-known UFO reports from Papua New Guinea because they combine three features rarely found together: a named principal witness, many supporting witnesses, and written notes made close to the events.'
 layout: default
 permalink: /reverend-w-b-gill-sightings-1959/
-nav_short_title: What Really Happened at Boianai?
-title: What Really Happened at Boianai?
-title_full: What Really Happened at Boianai?
-display_title_short: What Really Happened at Boianai?
-display_title: What Really Happened at Boianai?
-heading_title: What Really Happened at Boianai?
-page_heading_title: What Really Happened at Boianai?
+nav_short_title: "Boianai: The Evidence"
+title: "Boianai: The Evidence"
+title_full: "Boianai: The Evidence"
+display_title_short: "Boianai: The Evidence"
+display_title: "Boianai: The Evidence"
+heading_title: "Boianai: The Evidence"
+page_heading_title: "Boianai: The Evidence"
 source_count: 54
 infographic_count: 3
 page_website_name: Gill Sightings

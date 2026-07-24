@@ -123,13 +123,13 @@ description: 'The Voronezh landing story is one of the strangest UFO cases to em
 hero_summary: 'The Voronezh landing story is one of the strangest UFO cases to emerge from the late Soviet period: children in a city park said a red or shining object landed, a towering three-eyed being and a small robot appeared, and Soviet news agency TASS briefly treated the claim as a serious report.'
 layout: default
 permalink: /voronezh-russia-landing-1989/
-nav_short_title: What Really Happened in Voronezh, Russia in 1989?
-title: What Really Happened in Voronezh, Russia in 1989?
-title_full: What Really Happened in Voronezh, Russia in 1989?
-display_title_short: What Really Happened in Voronezh, Russia in 1989?
-display_title: What Really Happened in Voronezh, Russia in 1989?
-heading_title: What Really Happened in Voronezh, Russia in 1989?
-page_heading_title: What Really Happened in Voronezh, Russia in 1989?
+nav_short_title: "The Voronezh, Russia in 1989 Case"
+title: "The Voronezh, Russia in 1989 Case"
+title_full: "The Voronezh, Russia in 1989 Case"
+display_title_short: "The Voronezh, Russia in 1989 Case"
+display_title: "The Voronezh, Russia in 1989 Case"
+heading_title: "The Voronezh, Russia in 1989 Case"
+page_heading_title: "The Voronezh, Russia in 1989 Case"
 source_count: 93
 infographic_count: 3
 page_website_name: Voronezh Landing

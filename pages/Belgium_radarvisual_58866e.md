@@ -123,13 +123,13 @@ description: The Belgium radar/visual sightings began as a late-1989 wave of rep
 hero_summary: The Belgium radar/visual sightings began as a late-1989 wave of reports of large, low-flying, mostly triangular objects with lights, first centred around Eupen and nearby eastern Belgium.
 layout: default
 permalink: /belgium-radarvisual-sightings-1989/
-nav_short_title: What Really Happened Over Belgium?
-title: What Really Happened Over Belgium?
-title_full: What Really Happened Over Belgium?
-display_title_short: What Really Happened Over Belgium?
-display_title: What Really Happened Over Belgium?
-heading_title: What Really Happened Over Belgium?
-page_heading_title: What Really Happened Over Belgium?
+nav_short_title: "The Belgium Sighting Record"
+title: "The Belgium Sighting Record"
+title_full: "The Belgium Sighting Record"
+display_title_short: "The Belgium Sighting Record"
+display_title: "The Belgium Sighting Record"
+heading_title: "The Belgium Sighting Record"
+page_heading_title: "The Belgium Sighting Record"
 source_count: 116
 infographic_count: 3
 page_website_name: Belgium UFO Wave

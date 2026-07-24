@@ -123,13 +123,13 @@ description: The Red Bluff sighting (1960) refers to a widely discussed unidenti
 hero_summary: The Red Bluff sighting (1960) refers to a widely discussed unidentified flying object (UFO) encounter reported on the night of 13 August 1960 near Red Bluff, California, in the United States.
 layout: default
 permalink: /red-bluff-sighting-1960/
-nav_short_title: What Really Happened Near Red Bluff?
-title: What Really Happened Near Red Bluff?
-title_full: What Really Happened Near Red Bluff?
-display_title_short: What Really Happened Near Red Bluff?
-display_title: What Really Happened Near Red Bluff?
-heading_title: What Really Happened Near Red Bluff?
-page_heading_title: What Really Happened Near Red Bluff?
+nav_short_title: "The Red Bluff Encounter"
+title: "The Red Bluff Encounter"
+title_full: "The Red Bluff Encounter"
+display_title_short: "The Red Bluff Encounter"
+display_title: "The Red Bluff Encounter"
+heading_title: "The Red Bluff Encounter"
+page_heading_title: "The Red Bluff Encounter"
 source_count: 9
 infographic_count: 3
 page_website_name: Red Bluff UFO

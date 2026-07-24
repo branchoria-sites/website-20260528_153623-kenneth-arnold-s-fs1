@@ -123,13 +123,13 @@ description: The Antonio Villas-Boas abduction is one of the earliest UFO abduct
 hero_summary: The Antonio Villas-Boas abduction is one of the earliest UFO abduction narratives to receive sustained international attention.
 layout: default
 permalink: /antonio-villas-boas-abduction-1957/
-nav_short_title: What Really Happened to Antonio Villas Boas?
-title: What Really Happened to Antonio Villas Boas?
-title_full: What Really Happened to Antonio Villas Boas?
-display_title_short: What Really Happened to Antonio Villas Boas?
-display_title: What Really Happened to Antonio Villas Boas?
-heading_title: What Really Happened to Antonio Villas Boas?
-page_heading_title: What Really Happened to Antonio Villas Boas?
+nav_short_title: "Antonio Villas Boas: The Case Record"
+title: "Antonio Villas Boas: The Case Record"
+title_full: "Antonio Villas Boas: The Case Record"
+display_title_short: "Antonio Villas Boas: The Case Record"
+display_title: "Antonio Villas Boas: The Case Record"
+heading_title: "Antonio Villas Boas: The Case Record"
+page_heading_title: "Antonio Villas Boas: The Case Record"
 source_count: 93
 infographic_count: 3
 page_website_name: Villas Boas

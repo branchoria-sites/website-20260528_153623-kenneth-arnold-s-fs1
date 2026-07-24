@@ -123,13 +123,13 @@ description: The Kinross incident was the disappearance of a United States Air F
 hero_summary: The Kinross incident was the disappearance of a United States Air Force F-89C Scorpion interceptor over Lake Superior on 23 November 1953, with First Lieutenant Felix Eugene Moncla Jr as pilot and Second Lieutenant Robert L. Wilson as radar observer.
 layout: default
 permalink: /kinross-incident-1953/
-nav_short_title: What Really Happened Over Lake Superior?
-title: What Really Happened Over Lake Superior?
-title_full: What Really Happened Over Lake Superior?
-display_title_short: What Really Happened Over Lake Superior?
-display_title: What Really Happened Over Lake Superior?
-heading_title: What Really Happened Over Lake Superior?
-page_heading_title: What Really Happened Over Lake Superior?
+nav_short_title: "The Lake Superior Sighting Record"
+title: "The Lake Superior Sighting Record"
+title_full: "The Lake Superior Sighting Record"
+display_title_short: "The Lake Superior Sighting Record"
+display_title: "The Lake Superior Sighting Record"
+heading_title: "The Lake Superior Sighting Record"
+page_heading_title: "The Lake Superior Sighting Record"
 source_count: 65
 infographic_count: 3
 page_website_name: Kinross

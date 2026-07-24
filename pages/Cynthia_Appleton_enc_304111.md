@@ -123,13 +123,13 @@ description: The Cynthia Appleton encounter is a small but unusually durable Bri
 hero_summary: The Cynthia Appleton encounter is a small but unusually durable British UFO-contactee case centred on a young mother in Aston, Birmingham, who said that a human-looking visitor appeared in her sitting room in November 1957.
 layout: default
 permalink: /cynthia-appleton-encounter-1957/
-nav_short_title: What Really Happened in Aston?
-title: What Really Happened in Aston?
-title_full: What Really Happened in Aston?
-display_title_short: What Really Happened in Aston?
-display_title: What Really Happened in Aston?
-heading_title: What Really Happened in Aston?
-page_heading_title: What Really Happened in Aston?
+nav_short_title: "The Aston Case"
+title: "The Aston Case"
+title_full: "The Aston Case"
+display_title_short: "The Aston Case"
+display_title: "The Aston Case"
+heading_title: "The Aston Case"
+page_heading_title: "The Aston Case"
 source_count: 95
 infographic_count: 3
 page_website_name: Appleton Encounter

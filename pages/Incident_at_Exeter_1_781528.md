@@ -123,13 +123,13 @@ description: The Incident at Exeter was a celebrated UFO case from the early hou
 hero_summary: The Incident at Exeter was a celebrated UFO case from the early hours of 3 September 1965, centred on a young hitchhiker, Norman Muscarello, and two Exeter police officers, Eugene Bertrand and David Hunt, who reported seeing a silent object or group of red flashing lights near Kensington, New Hampshire.
 layout: default
 permalink: /incident-at-exeter-1965/
-nav_short_title: What Really Happened Near Exeter?
-title: What Really Happened Near Exeter?
-title_full: What Really Happened Near Exeter?
-display_title_short: What Really Happened Near Exeter?
-display_title: What Really Happened Near Exeter?
-heading_title: What Really Happened Near Exeter?
-page_heading_title: What Really Happened Near Exeter?
+nav_short_title: "The Exeter Encounter"
+title: "The Exeter Encounter"
+title_full: "The Exeter Encounter"
+display_title_short: "The Exeter Encounter"
+display_title: "The Exeter Encounter"
+heading_title: "The Exeter Encounter"
+page_heading_title: "The Exeter Encounter"
 source_count: 59
 infographic_count: 3
 page_website_name: Exeter UFO

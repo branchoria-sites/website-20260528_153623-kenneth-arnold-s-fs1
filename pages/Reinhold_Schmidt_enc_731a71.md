@@ -123,13 +123,13 @@ description: The Reinhold Schmidt encounter was a late-1950s UFO contactee claim
 hero_summary: The Reinhold Schmidt encounter was a late-1950s UFO contactee claim centred on Kearney, Nebraska, on 5 November 1957. Schmidt, a grain buyer, said he found a landed, cigar- or blimp-shaped craft near the Platte River, was invited aboard by human-looking occupants, and heard them speak German before they departed.
 layout: default
 permalink: /reinhold-schmidt-encounter-1957/
-nav_short_title: What Really Happened Near Kearney?
-title: What Really Happened Near Kearney?
-title_full: What Really Happened Near Kearney?
-display_title_short: What Really Happened Near Kearney?
-display_title: What Really Happened Near Kearney?
-heading_title: What Really Happened Near Kearney?
-page_heading_title: What Really Happened Near Kearney?
+nav_short_title: "The Kearney Encounter"
+title: "The Kearney Encounter"
+title_full: "The Kearney Encounter"
+display_title_short: "The Kearney Encounter"
+display_title: "The Kearney Encounter"
+heading_title: "The Kearney Encounter"
+page_heading_title: "The Kearney Encounter"
 source_count: 57
 infographic_count: 3
 page_website_name: Schmidt Encounter

@@ -123,13 +123,13 @@ description: The Betty and Barney Hill abduction claim is important less because
 hero_summary: 'The Betty and Barney Hill abduction claim is important less because it proves an extraterrestrial event than because it became the template for the modern alien-abduction story: a night drive, an anomalous light, “missing time”, hypnosis, medical examination imagery, and later public argument over whether the memories were evidence, trauma, suggestion, or...'
 layout: default
 permalink: /betty-and-barney-hill-abduction-1961/
-nav_short_title: What Really Happened to the Hills?
-title: What Really Happened to the Hills?
-title_full: What Really Happened to the Hills?
-display_title_short: What Really Happened to the Hills?
-display_title: What Really Happened to the Hills?
-heading_title: What Really Happened to the Hills?
-page_heading_title: What Really Happened to the Hills?
+nav_short_title: "the Hills: The Case Record"
+title: "the Hills: The Case Record"
+title_full: "the Hills: The Case Record"
+display_title_short: "the Hills: The Case Record"
+display_title: "the Hills: The Case Record"
+heading_title: "the Hills: The Case Record"
+page_heading_title: "the Hills: The Case Record"
 source_count: 120
 infographic_count: 3
 page_website_name: Hill Encounter

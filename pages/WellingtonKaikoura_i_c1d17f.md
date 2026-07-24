@@ -123,13 +123,13 @@ description: The Wellington/Kaikoura incident of 1978 — more commonly remember
 hero_summary: 'The Wellington/Kaikoura incident of 1978 — more commonly remembered as the Kaikōura lights — remains one of New Zealand’s best-known UFO cases because it joined together several unusually strong ingredients: experienced aircrew, air-traffic-control radar reports, aircraft radar indications, tape-recorded cockpit commentary, official investigation files,...'
 layout: default
 permalink: /wellington-kaikoura-incident-1978/
-nav_short_title: What Really Happened Over Kaikoura?
-title: What Really Happened Over Kaikoura?
-title_full: What Really Happened Over Kaikoura?
-display_title_short: What Really Happened Over Kaikoura?
-display_title: What Really Happened Over Kaikoura?
-heading_title: What Really Happened Over Kaikoura?
-page_heading_title: What Really Happened Over Kaikoura?
+nav_short_title: "The Kaikoura Sighting Record"
+title: "The Kaikoura Sighting Record"
+title_full: "The Kaikoura Sighting Record"
+display_title_short: "The Kaikoura Sighting Record"
+display_title: "The Kaikoura Sighting Record"
+heading_title: "The Kaikoura Sighting Record"
+page_heading_title: "The Kaikoura Sighting Record"
 source_count: 57
 infographic_count: 3
 page_website_name: Kaikoura Lights

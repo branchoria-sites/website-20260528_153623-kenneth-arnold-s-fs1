@@ -123,13 +123,13 @@ description: The Lubbock Lights sightings of 1951 remain one of the most durable
 hero_summary: 'The Lubbock Lights sightings of 1951 remain one of the most durable early UFO cases because they combined three things that rarely arrived together: technically trained witnesses, repeated observations over several nights, and photographs that became nationally famous.'
 layout: default
 permalink: /lubbock-lights-sightings-1951/
-nav_short_title: What Really Happened Over Lubbock?
-title: What Really Happened Over Lubbock?
-title_full: What Really Happened Over Lubbock?
-display_title_short: What Really Happened Over Lubbock?
-display_title: What Really Happened Over Lubbock?
-heading_title: What Really Happened Over Lubbock?
-page_heading_title: What Really Happened Over Lubbock?
+nav_short_title: "The Lubbock Sighting Record"
+title: "The Lubbock Sighting Record"
+title_full: "The Lubbock Sighting Record"
+display_title_short: "The Lubbock Sighting Record"
+display_title: "The Lubbock Sighting Record"
+heading_title: "The Lubbock Sighting Record"
+page_heading_title: "The Lubbock Sighting Record"
 source_count: 71
 infographic_count: 3
 page_website_name: Lubbock Lights

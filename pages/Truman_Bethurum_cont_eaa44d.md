@@ -123,13 +123,13 @@ description: The Truman Bethurum contact story is best understood as a 1954 publ
 hero_summary: The Truman Bethurum contact story is best understood as a 1954 public-facing UFO contactee case built around alleged encounters that Bethurum said began in Nevada in July 1952.
 layout: default
 permalink: /truman-bethurum-contact-1954/
-nav_short_title: What Really Happened in the Bethurum Case?
-title: What Really Happened in the Bethurum Case?
-title_full: What Really Happened in the Bethurum Case?
-display_title_short: What Really Happened in the Bethurum Case?
-display_title: What Really Happened in the Bethurum Case?
-heading_title: What Really Happened in the Bethurum Case?
-page_heading_title: What Really Happened in the Bethurum Case?
+nav_short_title: "The the Bethurum Case Case"
+title: "The the Bethurum Case Case"
+title_full: "The the Bethurum Case Case"
+display_title_short: "The the Bethurum Case Case"
+display_title: "The the Bethurum Case Case"
+heading_title: "The the Bethurum Case Case"
+page_heading_title: "The the Bethurum Case Case"
 source_count: 97
 infographic_count: 3
 page_website_name: Bethurum

@@ -123,13 +123,13 @@ description: The Gary Wilcox encounter is a 24 April 1964 UFO case from Newark V
 hero_summary: The Gary Wilcox encounter is a 24 April 1964 UFO case from Newark Valley, New York, in which a young dairy farmer said he met two short, silver-suited beings beside an egg-shaped craft on his farm. Its interest is not that it has strong physical proof; it does not.
 layout: default
 permalink: /gary-wilcox-encounter-1964/
-nav_short_title: What Really Happened During Gary Wilcox's UFO Sighting?
-title: What Really Happened During Gary Wilcox's UFO Sighting?
-title_full: What Really Happened During Gary Wilcox's UFO Sighting?
-display_title_short: What Really Happened During Gary Wilcox's UFO Sighting?
-display_title: What Really Happened During Gary Wilcox's UFO Sighting?
-heading_title: What Really Happened During Gary Wilcox's UFO Sighting?
-page_heading_title: What Really Happened During Gary Wilcox's UFO Sighting?
+nav_short_title: "Gary Wilcox's UFO Sighting: The Case Record"
+title: "Gary Wilcox's UFO Sighting: The Case Record"
+title_full: "Gary Wilcox's UFO Sighting: The Case Record"
+display_title_short: "Gary Wilcox's UFO Sighting: The Case Record"
+display_title: "Gary Wilcox's UFO Sighting: The Case Record"
+heading_title: "Gary Wilcox's UFO Sighting: The Case Record"
+page_heading_title: "Gary Wilcox's UFO Sighting: The Case Record"
 source_count: 98
 infographic_count: 3
 page_website_name: Wilcox UFO

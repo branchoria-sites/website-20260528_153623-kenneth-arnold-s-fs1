@@ -123,13 +123,13 @@ description: The Lakenheath episode of 1956 is one of the stronger historical UF
 hero_summary: The Lakenheath episode of 1956 is one of the stronger historical UFO cases because it is not built on a single witness seeing a strange light.
 layout: default
 permalink: /lakenheath-episode-1956/
-nav_short_title: What Really Happened at Lakenheath?
-title: What Really Happened at Lakenheath?
-title_full: What Really Happened at Lakenheath?
-display_title_short: What Really Happened at Lakenheath?
-display_title: What Really Happened at Lakenheath?
-heading_title: What Really Happened at Lakenheath?
-page_heading_title: What Really Happened at Lakenheath?
+nav_short_title: "Lakenheath: The Evidence"
+title: "Lakenheath: The Evidence"
+title_full: "Lakenheath: The Evidence"
+display_title_short: "Lakenheath: The Evidence"
+display_title: "Lakenheath: The Evidence"
+heading_title: "Lakenheath: The Evidence"
+page_heading_title: "Lakenheath: The Evidence"
 source_count: 83
 infographic_count: 3
 page_website_name: Lakenheath

@@ -123,13 +123,13 @@ description: The Coyne helicopter sighting of 18 October 1973 is one of the bett
 hero_summary: The Coyne helicopter sighting of 18 October 1973 is one of the better-documented American UFO cases because it involved a trained U.S. Army Reserve helicopter crew, a named aircraft route, alleged radio and instrument anomalies, later ground-witness testimony, and a detailed post-event reconstruction.
 layout: default
 permalink: /coyne-helicopter-sighting-1973/
-nav_short_title: What Really Happened Near Mansfield?
-title: What Really Happened Near Mansfield?
-title_full: What Really Happened Near Mansfield?
-display_title_short: What Really Happened Near Mansfield?
-display_title: What Really Happened Near Mansfield?
-heading_title: What Really Happened Near Mansfield?
-page_heading_title: What Really Happened Near Mansfield?
+nav_short_title: "The Mansfield Encounter"
+title: "The Mansfield Encounter"
+title_full: "The Mansfield Encounter"
+display_title_short: "The Mansfield Encounter"
+display_title: "The Mansfield Encounter"
+heading_title: "The Mansfield Encounter"
+page_heading_title: "The Mansfield Encounter"
 source_count: 80
 infographic_count: 3
 page_website_name: Coyne Sighting

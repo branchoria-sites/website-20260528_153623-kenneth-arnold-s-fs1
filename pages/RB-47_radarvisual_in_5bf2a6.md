@@ -123,13 +123,13 @@ description: The RB-47 radar/visual incident of 17 July 1957 is one of the best-
 hero_summary: The RB-47 radar/visual incident of 17 July 1957 is one of the best-known Cold War UFO cases because it did not rest on a single startled witness.
 layout: default
 permalink: /rb-47-radarvisual-incident-1957/
-nav_short_title: What Really Happened to the RB 47?
-title: What Really Happened to the RB 47?
-title_full: What Really Happened to the RB 47?
-display_title_short: What Really Happened to the RB 47?
-display_title: What Really Happened to the RB 47?
-heading_title: What Really Happened to the RB 47?
-page_heading_title: What Really Happened to the RB 47?
+nav_short_title: "the RB 47: The Case Record"
+title: "the RB 47: The Case Record"
+title_full: "the RB 47: The Case Record"
+display_title_short: "the RB 47: The Case Record"
+display_title: "the RB 47: The Case Record"
+heading_title: "the RB 47: The Case Record"
+page_heading_title: "the RB 47: The Case Record"
 source_count: 41
 infographic_count: 3
 page_website_name: RB 47 Incident

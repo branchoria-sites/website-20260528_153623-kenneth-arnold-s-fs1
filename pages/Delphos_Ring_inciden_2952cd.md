@@ -123,13 +123,13 @@ description: 'The Delphos Ring incident is a 2 November 1971 UFO case from a far
 hero_summary: 'The Delphos Ring incident is a 2 November 1971 UFO case from a farm near Delphos, Kansas, centred on two claims: a close-range sighting of a small glowing object by 16-year-old Ronald Johnson, and an unusual luminous ring reportedly left in the soil where the object had hovered.'
 layout: default
 permalink: /delphos-ring-incident-1971/
-nav_short_title: What Really Happened at the Delphos Ring?
-title: What Really Happened at the Delphos Ring?
-title_full: What Really Happened at the Delphos Ring?
-display_title_short: What Really Happened at the Delphos Ring?
-display_title: What Really Happened at the Delphos Ring?
-heading_title: What Really Happened at the Delphos Ring?
-page_heading_title: What Really Happened at the Delphos Ring?
+nav_short_title: "the Delphos Ring: The Evidence"
+title: "the Delphos Ring: The Evidence"
+title_full: "the Delphos Ring: The Evidence"
+display_title_short: "the Delphos Ring: The Evidence"
+display_title: "the Delphos Ring: The Evidence"
+heading_title: "the Delphos Ring: The Evidence"
+page_heading_title: "the Delphos Ring: The Evidence"
 source_count: 54
 infographic_count: 3
 page_website_name: Delphos Ring

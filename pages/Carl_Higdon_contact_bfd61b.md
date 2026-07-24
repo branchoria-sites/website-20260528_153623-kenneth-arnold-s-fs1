@@ -123,13 +123,13 @@ description: The Carl Higdon contact case is a 25 October 1974 Wyoming UFO abduc
 hero_summary: The Carl Higdon contact case is a 25 October 1974 Wyoming UFO abduction claim centred on a 41-year-old oil-field foreman who said an elk hunt in Medicine Bow National Forest turned into an encounter with a humanoid being, a cube-like craft, missing time, medical after-effects, and a damaged rifle bullet.
 layout: default
 permalink: /carl-higdon-contact-1974/
-nav_short_title: What Really Happened in Mc Carty Canyon?
-title: What Really Happened in Mc Carty Canyon?
-title_full: What Really Happened in Mc Carty Canyon?
-display_title_short: What Really Happened in Mc Carty Canyon?
-display_title: What Really Happened in Mc Carty Canyon?
-heading_title: What Really Happened in Mc Carty Canyon?
-page_heading_title: What Really Happened in Mc Carty Canyon?
+nav_short_title: "The Mc Carty Canyon Case"
+title: "The Mc Carty Canyon Case"
+title_full: "The Mc Carty Canyon Case"
+display_title_short: "The Mc Carty Canyon Case"
+display_title: "The Mc Carty Canyon Case"
+heading_title: "The Mc Carty Canyon Case"
+page_heading_title: "The Mc Carty Canyon Case"
 source_count: 111
 infographic_count: 3
 page_website_name: Higdon Contact

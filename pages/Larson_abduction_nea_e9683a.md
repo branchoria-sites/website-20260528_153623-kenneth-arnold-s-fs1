@@ -123,13 +123,13 @@ description: The Larson abduction near Fargo is a 26 August 1975 UFO abduction c
 hero_summary: The Larson abduction near Fargo is a 26 August 1975 UFO abduction claim centred on Sandy or Sandra Larson, her teenage daughter Jackie Larson, and Jackie’s boyfriend Terry O’Leary, travelling west from Fargo towards Bismarck on Interstate 94 before dawn.
 layout: default
 permalink: /larson-abduction-near-fargo-1975/
-nav_short_title: What Really Happened on I 94?
-title: What Really Happened on I 94?
-title_full: What Really Happened on I 94?
-display_title_short: What Really Happened on I 94?
-display_title: What Really Happened on I 94?
-heading_title: What Really Happened on I 94?
-page_heading_title: What Really Happened on I 94?
+nav_short_title: "The I 94 Incident"
+title: "The I 94 Incident"
+title_full: "The I 94 Incident"
+display_title_short: "The I 94 Incident"
+display_title: "The I 94 Incident"
+heading_title: "The I 94 Incident"
+page_heading_title: "The I 94 Incident"
 source_count: 99
 infographic_count: 3
 page_website_name: Larson Abduction

@@ -123,13 +123,13 @@ description: The Cisco Grove incident is a 1964 UFO close-encounter claim centre
 hero_summary: The Cisco Grove incident is a 1964 UFO close-encounter claim centred on Donald Shrum, a bow hunter who said he spent a night in a tree near Cisco Grove, California, while strange craft, humanoid figures and robot-like beings tried to reach him.
 layout: default
 permalink: /cisco-grove-incident-1964/
-nav_short_title: What Really Happened During the Cisco Grove UFO...
-title: What Really Happened During the Cisco Grove UFO Sighting?
-title_full: What Really Happened During the Cisco Grove UFO Sighting?
-display_title_short: What Really Happened During the Cisco Grove UFO...
-display_title: What Really Happened During the Cisco Grove UFO...
-heading_title: What Really Happened During the Cisco Grove UFO Sighting?
-page_heading_title: What Really Happened During the Cisco Grove UFO Sighting?
+nav_short_title: "the Cisco Grove UFO Sighting: The Case Record"
+title: "the Cisco Grove UFO Sighting: The Case Record"
+title_full: "the Cisco Grove UFO Sighting: The Case Record"
+display_title_short: "the Cisco Grove UFO Sighting: The Case Record"
+display_title: "the Cisco Grove UFO Sighting: The Case Record"
+heading_title: "the Cisco Grove UFO Sighting: The Case Record"
+page_heading_title: "the Cisco Grove UFO Sighting: The Case Record"
 source_count: 122
 infographic_count: 3
 page_website_name: Cisco Grove 1964

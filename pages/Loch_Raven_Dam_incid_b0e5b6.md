@@ -123,13 +123,13 @@ description: The Loch Raven Dam incident of 26 October 1958 is one of Marylandâ€
 hero_summary: The Loch Raven Dam incident of 26 October 1958 is one of Marylandâ€™s best-known UFO cases because it combines a close-range sighting, named witnesses, alleged vehicle interference, reported facial heat or burning, police involvement, hospital examination and a formal Project Blue Book file.
 layout: default
 permalink: /loch-raven-dam-incident-1958/
-nav_short_title: What Really Happened at Loch Raven Dam in 1958?
-title: What Really Happened at Loch Raven Dam in 1958?
-title_full: What Really Happened at Loch Raven Dam in 1958?
-display_title_short: What Really Happened at Loch Raven Dam in 1958?
-display_title: What Really Happened at Loch Raven Dam in 1958?
-heading_title: What Really Happened at Loch Raven Dam in 1958?
-page_heading_title: What Really Happened at Loch Raven Dam in 1958?
+nav_short_title: "Loch Raven Dam in 1958: The Evidence"
+title: "Loch Raven Dam in 1958: The Evidence"
+title_full: "Loch Raven Dam in 1958: The Evidence"
+display_title_short: "Loch Raven Dam in 1958: The Evidence"
+display_title: "Loch Raven Dam in 1958: The Evidence"
+heading_title: "Loch Raven Dam in 1958: The Evidence"
+page_heading_title: "Loch Raven Dam in 1958: The Evidence"
 source_count: 64
 infographic_count: 3
 page_website_name: Loch Raven UFO

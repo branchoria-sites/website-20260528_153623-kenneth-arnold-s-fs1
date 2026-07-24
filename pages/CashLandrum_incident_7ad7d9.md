@@ -123,13 +123,13 @@ description: The Cash/Landrum incident is one of the most durable UFO injury cla
 hero_summary: 'The Cash/Landrum incident is one of the most durable UFO injury claims of the modern era because it combines three elements that rarely sit together in one case: a vivid close-range encounter, alleged physical illness, and an unsuccessful lawsuit against the United States government.'
 layout: default
 permalink: /cash-landrum-incident-1980/
-nav_short_title: What Really Happened on FM 1485?
-title: What Really Happened on FM 1485?
-title_full: What Really Happened on FM 1485?
-display_title_short: What Really Happened on FM 1485?
-display_title: What Really Happened on FM 1485?
-heading_title: What Really Happened on FM 1485?
-page_heading_title: What Really Happened on FM 1485?
+nav_short_title: "The FM 1485 Incident"
+title: "The FM 1485 Incident"
+title_full: "The FM 1485 Incident"
+display_title_short: "The FM 1485 Incident"
+display_title: "The FM 1485 Incident"
+heading_title: "The FM 1485 Incident"
+page_heading_title: "The FM 1485 Incident"
 source_count: 78
 infographic_count: 3
 page_website_name: Cash Landrum

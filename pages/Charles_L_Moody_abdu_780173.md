@@ -123,13 +123,13 @@ description: The Charles L. Moody abduction (1975) refers to a specific UFO enco
 hero_summary: The Charles L. Moody abduction (1975) refers to a specific UFO encounter and alleged alien abduction reported by a United States Air Force Sergeant in the New Mexico desert on 13 August 1975.
 layout: default
 permalink: /charles-l-moody-abduction-1975/
-nav_short_title: What Really Happened in the Moody Case?
-title: What Really Happened in the Moody Case?
-title_full: What Really Happened in the Moody Case?
-display_title_short: What Really Happened in the Moody Case?
-display_title: What Really Happened in the Moody Case?
-heading_title: What Really Happened in the Moody Case?
-page_heading_title: What Really Happened in the Moody Case?
+nav_short_title: "The the Moody Case Case"
+title: "The the Moody Case Case"
+title_full: "The the Moody Case Case"
+display_title_short: "The the Moody Case Case"
+display_title: "The the Moody Case Case"
+heading_title: "The the Moody Case Case"
+page_heading_title: "The the Moody Case Case"
 source_count: 41
 infographic_count: 3
 page_website_name: Moody Abduction

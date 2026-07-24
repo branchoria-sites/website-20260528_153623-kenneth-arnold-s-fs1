@@ -123,13 +123,13 @@ description: 'The Valensole incident is one of France’s best-known close-encou
 hero_summary: 'The Valensole incident is one of France’s best-known close-encounter UFO cases: on 1 July 1965, lavender farmer Maurice Masse reported seeing an unknown craft and two small occupants in a field near Valensole, in Alpes-de-Haute-Provence. The case matters because it is not just a dramatic witness story.'
 layout: default
 permalink: /valensole-incident-1965/
-nav_short_title: What Really Happened at Valensole?
-title: What Really Happened at Valensole?
-title_full: What Really Happened at Valensole?
-display_title_short: What Really Happened at Valensole?
-display_title: What Really Happened at Valensole?
-heading_title: What Really Happened at Valensole?
-page_heading_title: What Really Happened at Valensole?
+nav_short_title: "Valensole: The Evidence"
+title: "Valensole: The Evidence"
+title_full: "Valensole: The Evidence"
+display_title_short: "Valensole: The Evidence"
+display_title: "Valensole: The Evidence"
+heading_title: "Valensole: The Evidence"
+page_heading_title: "Valensole: The Evidence"
 source_count: 106
 infographic_count: 3
 page_website_name: Valensole

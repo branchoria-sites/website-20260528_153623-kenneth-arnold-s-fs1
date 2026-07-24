@@ -123,13 +123,13 @@ description: The “Magenta Italy crash” is the claim that an unidentified cra
 hero_summary: The “Magenta Italy crash” is the claim that an unidentified craft came down in northern Italy in 1933, was seized under Benito Mussolini’s regime, studied by a secret group often called Cabinet RS/33, and later passed into American hands near the end of the Second World War.
 layout: default
 permalink: /magenta-italy-crash-1933/
-nav_short_title: What Really Happened During the Magenta Italy UFO Crash?
-title: What Really Happened During the Magenta Italy UFO Crash?
-title_full: What Really Happened During the Magenta Italy UFO Crash?
-display_title_short: What Really Happened During the Magenta Italy UFO Crash?
-display_title: What Really Happened During the Magenta Italy UFO Crash?
-heading_title: What Really Happened During the Magenta Italy UFO Crash?
-page_heading_title: What Really Happened During the Magenta Italy UFO Crash?
+nav_short_title: "the Magenta Italy UFO Crash: The Case Record"
+title: "the Magenta Italy UFO Crash: The Case Record"
+title_full: "the Magenta Italy UFO Crash: The Case Record"
+display_title_short: "the Magenta Italy UFO Crash: The Case Record"
+display_title: "the Magenta Italy UFO Crash: The Case Record"
+heading_title: "the Magenta Italy UFO Crash: The Case Record"
+page_heading_title: "the Magenta Italy UFO Crash: The Case Record"
 source_count: 100
 infographic_count: 3
 page_website_name: Magenta Crash 1933

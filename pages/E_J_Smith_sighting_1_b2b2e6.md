@@ -123,13 +123,13 @@ description: The E. J. Smith sighting is better known in UFO catalogues as the U
 hero_summary: The E. J. Smith sighting is better known in UFO catalogues as the United Air Lines Flight 105 case of 4 July 1947.
 layout: default
 permalink: /e-j-smith-sighting-1947/
-nav_short_title: What Really Happened on United Flight 105 in 1947?
-title: What Really Happened on United Flight 105 in 1947?
-title_full: What Really Happened on United Flight 105 in 1947?
-display_title_short: What Really Happened on United Flight 105 in 1947?
-display_title: What Really Happened on United Flight 105 in 1947?
-heading_title: What Really Happened on United Flight 105 in 1947?
-page_heading_title: What Really Happened on United Flight 105 in 1947?
+nav_short_title: "The United Flight 105 in 1947 Incident"
+title: "The United Flight 105 in 1947 Incident"
+title_full: "The United Flight 105 in 1947 Incident"
+display_title_short: "The United Flight 105 in 1947 Incident"
+display_title: "The United Flight 105 in 1947 Incident"
+heading_title: "The United Flight 105 in 1947 Incident"
+page_heading_title: "The United Flight 105 in 1947 Incident"
 source_count: 93
 infographic_count: 3
 page_website_name: Flight 105 UFO

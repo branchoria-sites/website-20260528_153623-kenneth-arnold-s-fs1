@@ -123,13 +123,13 @@ description: The Spaur/Neff Ravenna sighting of 17 April 1966 is best understood
 hero_summary: The Spaur/Neff Ravenna sighting of 17 April 1966 is best understood as a contested police-witness UFO case, not as a settled demonstration of either an extraordinary craft or a simple astronomical mistake.
 layout: default
 permalink: /spaur-neff-ravenna-sighting-1966/
-nav_short_title: What Really Happened During the Ravenna UFO Chase?
-title: What Really Happened During the Ravenna UFO Chase?
-title_full: What Really Happened During the Ravenna UFO Chase?
-display_title_short: What Really Happened During the Ravenna UFO Chase?
-display_title: What Really Happened During the Ravenna UFO Chase?
-heading_title: What Really Happened During the Ravenna UFO Chase?
-page_heading_title: What Really Happened During the Ravenna UFO Chase?
+nav_short_title: "the Ravenna UFO Chase: The Case Record"
+title: "the Ravenna UFO Chase: The Case Record"
+title_full: "the Ravenna UFO Chase: The Case Record"
+display_title_short: "the Ravenna UFO Chase: The Case Record"
+display_title: "the Ravenna UFO Chase: The Case Record"
+heading_title: "the Ravenna UFO Chase: The Case Record"
+page_heading_title: "the Ravenna UFO Chase: The Case Record"
 source_count: 52
 infographic_count: 3
 page_website_name: Ravenna UFO

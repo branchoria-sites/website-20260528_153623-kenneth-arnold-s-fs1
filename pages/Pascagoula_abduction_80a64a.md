@@ -123,13 +123,13 @@ description: The Pascagoula abduction is the 1973 Mississippi UFO case in which 
 hero_summary: The Pascagoula abduction is the 1973 Mississippi UFO case in which Charles Hickson and Calvin Parker said they were taken from a Pascagoula River fishing spot, brought aboard an object, examined by non-human beings, and returned shaken but alive.
 layout: default
 permalink: /pascagoula-abduction-1973/
-nav_short_title: What Really Happened at Pascagoula?
-title: What Really Happened at Pascagoula?
-title_full: What Really Happened at Pascagoula?
-display_title_short: What Really Happened at Pascagoula?
-display_title: What Really Happened at Pascagoula?
-heading_title: What Really Happened at Pascagoula?
-page_heading_title: What Really Happened at Pascagoula?
+nav_short_title: "Pascagoula: The Evidence"
+title: "Pascagoula: The Evidence"
+title_full: "Pascagoula: The Evidence"
+display_title_short: "Pascagoula: The Evidence"
+display_title: "Pascagoula: The Evidence"
+heading_title: "Pascagoula: The Evidence"
+page_heading_title: "Pascagoula: The Evidence"
 source_count: 156
 infographic_count: 3
 page_website_name: Pascagoula

@@ -123,13 +123,13 @@ description: The Topcliffe incident (1952) refers to an unexplained aerial sight
 hero_summary: The Topcliffe incident (1952) refers to an unexplained aerial sighting reported on 19 September 1952 at Royal Air Force (RAF) Topcliffe, a military airbase near Thirsk in North Yorkshire, England.
 layout: default
 permalink: /topcliffe-incident-1952/
-nav_short_title: What Really Happened at RAF Topcliffe in 1952?
-title: What Really Happened at RAF Topcliffe in 1952?
-title_full: What Really Happened at RAF Topcliffe in 1952?
-display_title_short: What Really Happened at RAF Topcliffe in 1952?
-display_title: What Really Happened at RAF Topcliffe in 1952?
-heading_title: What Really Happened at RAF Topcliffe in 1952?
-page_heading_title: What Really Happened at RAF Topcliffe in 1952?
+nav_short_title: "RAF Topcliffe in 1952: The Evidence"
+title: "RAF Topcliffe in 1952: The Evidence"
+title_full: "RAF Topcliffe in 1952: The Evidence"
+display_title_short: "RAF Topcliffe in 1952: The Evidence"
+display_title: "RAF Topcliffe in 1952: The Evidence"
+heading_title: "RAF Topcliffe in 1952: The Evidence"
+page_heading_title: "RAF Topcliffe in 1952: The Evidence"
 source_count: 21
 infographic_count: 3
 page_website_name: Topcliffe UFO

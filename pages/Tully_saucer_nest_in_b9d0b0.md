@@ -123,13 +123,13 @@ description: The Tully “saucer nest” incident was a famous Australian UFO ca
 hero_summary: The Tully “saucer nest” incident was a famous Australian UFO case centred on a reported daylight sighting near Horseshoe Lagoon, Euramo, just south of Tully in Far North Queensland, on 19 January 1966.
 layout: default
 permalink: /tully-saucer-nest-incident-1966/
-nav_short_title: What Really Happened at Tully in 1966?
-title: What Really Happened at Tully in 1966?
-title_full: What Really Happened at Tully in 1966?
-display_title_short: What Really Happened at Tully in 1966?
-display_title: What Really Happened at Tully in 1966?
-heading_title: What Really Happened at Tully in 1966?
-page_heading_title: What Really Happened at Tully in 1966?
+nav_short_title: "Tully in 1966: The Evidence"
+title: "Tully in 1966: The Evidence"
+title_full: "Tully in 1966: The Evidence"
+display_title_short: "Tully in 1966: The Evidence"
+display_title: "Tully in 1966: The Evidence"
+heading_title: "Tully in 1966: The Evidence"
+page_heading_title: "Tully in 1966: The Evidence"
 source_count: 82
 infographic_count: 3
 page_website_name: Tully UFO

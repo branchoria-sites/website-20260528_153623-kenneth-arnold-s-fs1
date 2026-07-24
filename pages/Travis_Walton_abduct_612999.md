@@ -123,13 +123,13 @@ description: The Travis Walton abduction is one of the best-known and most dispu
 hero_summary: The Travis Walton abduction is one of the best-known and most disputed UFO cases in modern American folklore. On 5 November 1975, Walton, a 22-year-old forestry worker, disappeared after his logging crew said they saw a bright object in the Apache-Sitgreaves National Forests near Heber-Overgaard, Arizona.
 layout: default
 permalink: /travis-walton-abduction-1975/
-nav_short_title: What Really Happened to Travis Walton?
-title: What Really Happened to Travis Walton?
-title_full: What Really Happened to Travis Walton?
-display_title_short: What Really Happened to Travis Walton?
-display_title: What Really Happened to Travis Walton?
-heading_title: What Really Happened to Travis Walton?
-page_heading_title: What Really Happened to Travis Walton?
+nav_short_title: "Travis Walton: The Case Record"
+title: "Travis Walton: The Case Record"
+title_full: "Travis Walton: The Case Record"
+display_title_short: "Travis Walton: The Case Record"
+display_title: "Travis Walton: The Case Record"
+heading_title: "Travis Walton: The Case Record"
+page_heading_title: "Travis Walton: The Case Record"
 source_count: 104
 infographic_count: 3
 page_website_name: Walton

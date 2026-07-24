@@ -123,13 +123,13 @@ description: The Thomas F. Mantell incident was a fatal 7 January 1948 pursuit o
 hero_summary: The Thomas F. Mantell incident was a fatal 7 January 1948 pursuit of an unidentified aerial object by Captain Thomas Francis Mantell Jr., a Kentucky Air National Guard pilot flying an F-51D Mustang.
 layout: default
 permalink: /thomas-f-mantell-incident-1948/
-nav_short_title: What Really Happened to Thomas Mantell?
-title: What Really Happened to Thomas Mantell?
-title_full: What Really Happened to Thomas Mantell?
-display_title_short: What Really Happened to Thomas Mantell?
-display_title: What Really Happened to Thomas Mantell?
-heading_title: What Really Happened to Thomas Mantell?
-page_heading_title: What Really Happened to Thomas Mantell?
+nav_short_title: "Thomas Mantell: The Case Record"
+title: "Thomas Mantell: The Case Record"
+title_full: "Thomas Mantell: The Case Record"
+display_title_short: "Thomas Mantell: The Case Record"
+display_title: "Thomas Mantell: The Case Record"
+heading_title: "Thomas Mantell: The Case Record"
+page_heading_title: "Thomas Mantell: The Case Record"
 source_count: 87
 infographic_count: 3
 page_website_name: Mantell

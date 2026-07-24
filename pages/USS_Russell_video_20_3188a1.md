@@ -123,13 +123,13 @@ description: The USS Russell video from July 2019 is best understood as part of 
 hero_summary: The USS Russell video from July 2019 is best understood as part of a wider series of drone or unidentified aerial system encounters around US Navy ships off Southern California, not as strong evidence of pyramid-shaped craft.
 layout: default
 permalink: /uss-russell-video-2019/
-nav_short_title: What Really Happened in the USS Russell 2019 Video?
-title: What Really Happened in the USS Russell 2019 Video?
-title_full: What Really Happened in the USS Russell 2019 Video?
-display_title_short: What Really Happened in the USS Russell 2019 Video?
-display_title: What Really Happened in the USS Russell 2019 Video?
-heading_title: What Really Happened in the USS Russell 2019 Video?
-page_heading_title: What Really Happened in the USS Russell 2019 Video?
+nav_short_title: "The the USS Russell 2019 Video Case"
+title: "The the USS Russell 2019 Video Case"
+title_full: "The the USS Russell 2019 Video Case"
+display_title_short: "The the USS Russell 2019 Video Case"
+display_title: "The the USS Russell 2019 Video Case"
+heading_title: "The the USS Russell 2019 Video Case"
+page_heading_title: "The the USS Russell 2019 Video Case"
 source_count: 93
 infographic_count: 3
 page_website_name: USS Russell

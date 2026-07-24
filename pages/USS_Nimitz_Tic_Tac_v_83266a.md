@@ -123,13 +123,13 @@ description: The USS Nimitz “Tic Tac” case is one of the best-known modern U
 hero_summary: The USS Nimitz “Tic Tac” case is one of the best-known modern UFO or UAP incidents because it combines trained military witnesses, shipboard radar claims, an infrared targeting-pod video, and later official acknowledgement that the footage is real Navy material.
 layout: default
 permalink: /uss-nimitz-tic-tac-video-2004/
-nav_short_title: What Really Happened During the Nimitz Tic Tac Sighting?
-title: What Really Happened During the Nimitz Tic Tac Sighting?
-title_full: What Really Happened During the Nimitz Tic Tac Sighting?
-display_title_short: What Really Happened During the Nimitz Tic Tac Sighting?
-display_title: What Really Happened During the Nimitz Tic Tac Sighting?
-heading_title: What Really Happened During the Nimitz Tic Tac Sighting?
-page_heading_title: What Really Happened During the Nimitz Tic Tac Sighting?
+nav_short_title: "the Nimitz Tic Tac Sighting: The Case Record"
+title: "the Nimitz Tic Tac Sighting: The Case Record"
+title_full: "the Nimitz Tic Tac Sighting: The Case Record"
+display_title_short: "the Nimitz Tic Tac Sighting: The Case Record"
+display_title: "the Nimitz Tic Tac Sighting: The Case Record"
+heading_title: "the Nimitz Tic Tac Sighting: The Case Record"
+page_heading_title: "the Nimitz Tic Tac Sighting: The Case Record"
 source_count: 154
 infographic_count: 3
 page_website_name: Nimitz UAP

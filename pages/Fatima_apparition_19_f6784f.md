@@ -123,13 +123,13 @@ description: 'The Fatima apparition of 1917 was a six-month sequence of reported
 hero_summary: 'The Fatima apparition of 1917 was a six-month sequence of reported Marian visions near Fatima, Portugal, centred on three shepherd children: Lucia dos Santos, Francisco Marto and Jacinta Marto.'
 layout: default
 permalink: /fatima-apparition-1917/
-nav_short_title: What Really Happened at Fatima?
-title: What Really Happened at Fatima?
-title_full: What Really Happened at Fatima?
-display_title_short: What Really Happened at Fatima?
-display_title: What Really Happened at Fatima?
-heading_title: What Really Happened at Fatima?
-page_heading_title: What Really Happened at Fatima?
+nav_short_title: "Fatima: The Evidence"
+title: "Fatima: The Evidence"
+title_full: "Fatima: The Evidence"
+display_title_short: "Fatima: The Evidence"
+display_title: "Fatima: The Evidence"
+heading_title: "Fatima: The Evidence"
+page_heading_title: "Fatima: The Evidence"
 source_count: 13
 infographic_count: 3
 page_website_name: Fatima

@@ -123,13 +123,13 @@ description: The Maureen Puddy encounter usually refers to the February 1973 “
 hero_summary: The Maureen Puddy encounter usually refers to the February 1973 “meeting place” episode near Mooraduc Road, south-east of Melbourne, but it cannot be understood without the two reported UFO incidents that preceded it in July 1972.
 layout: default
 permalink: /maureen-puddy-encounter-1973/
-nav_short_title: What Really Happened on Mooraduc Road?
-title: What Really Happened on Mooraduc Road?
-title_full: What Really Happened on Mooraduc Road?
-display_title_short: What Really Happened on Mooraduc Road?
-display_title: What Really Happened on Mooraduc Road?
-heading_title: What Really Happened on Mooraduc Road?
-page_heading_title: What Really Happened on Mooraduc Road?
+nav_short_title: "The Mooraduc Road Incident"
+title: "The Mooraduc Road Incident"
+title_full: "The Mooraduc Road Incident"
+display_title_short: "The Mooraduc Road Incident"
+display_title: "The Mooraduc Road Incident"
+heading_title: "The Mooraduc Road Incident"
+page_heading_title: "The Mooraduc Road Incident"
 source_count: 92
 infographic_count: 3
 page_website_name: Puddy Encounter
@@ -809,7 +809,7 @@ Basterfield himself later used the case in a clinical and psychodynamic context.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LzOQ5S_wPAk" title="The Chilling PARANORMAL CASE of Maureen Puddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LzOQ5S_wPAk" target="_blank" rel="noopener noreferrer">The Chilling PARANORMAL CASE of Maureen Puddy</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 21.3K &middot; Uploaded: June 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LzOQ5S_wPAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LzOQ5S_wPAk">Open on YouTube</a></p></div></div></div>
 
-## The fairest assessment
+## Where the record leaves Maureen Puddy encoun's UFO record
 
 The Maureen Puddy encounter is best treated as a layered case rather than a single event. The July 1972 UFO reports have a stronger documentary base than many popular UFO stories because Puddy reported them to police and the RAAF, and because the RAAF paperwork records details such as time, location, weather, aircraft checks and the witness’s own description. The 25 July incident also has partial contextual support from other blue-light reports, though not enough to confirm the stopped-car and voice elements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Scientific Research<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufos-scientificresearch.blogspot.com/2012/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 

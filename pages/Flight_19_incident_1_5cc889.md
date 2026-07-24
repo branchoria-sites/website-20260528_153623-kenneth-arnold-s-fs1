@@ -123,13 +123,13 @@ description: Flight 19 was not a single aircraft but a U.S. Navy training format
 hero_summary: Flight 19 was not a single aircraft but a U.S. Navy training formation of five TBM Avenger torpedo bombers that disappeared after leaving Naval Air Station Fort Lauderdale on 5 December 1945. Fourteen men were lost with the flight, and thirteen more were lost when a PBM Mariner search aircraft vanished later that evening.
 layout: default
 permalink: /flight-19-incident-1945/
-nav_short_title: What Really Happened to Flight 19?
-title: What Really Happened to Flight 19?
-title_full: What Really Happened to Flight 19?
-display_title_short: What Really Happened to Flight 19?
-display_title: What Really Happened to Flight 19?
-heading_title: What Really Happened to Flight 19?
-page_heading_title: What Really Happened to Flight 19?
+nav_short_title: "Flight 19: The Case Record"
+title: "Flight 19: The Case Record"
+title_full: "Flight 19: The Case Record"
+display_title_short: "Flight 19: The Case Record"
+display_title: "Flight 19: The Case Record"
+heading_title: "Flight 19: The Case Record"
+page_heading_title: "Flight 19: The Case Record"
 source_count: 78
 infographic_count: 3
 page_website_name: Flight 19

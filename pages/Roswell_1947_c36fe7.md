@@ -123,13 +123,13 @@ description: Roswell (1947) is the UFO case in which the gap between what happen
 hero_summary: Roswell (1947) is the UFO case in which the gap between what happened in the New Mexico desert and what later came to symbolise it became enormous. The strongest contemporary evidence points to the recovery of balloon-borne equipment near Roswell Army Air Field, not an extraterrestrial craft.
 layout: default
 permalink: /roswell-1947/
-nav_short_title: What Really Happened at Roswell?
-title: What Really Happened at Roswell?
-title_full: What Really Happened at Roswell?
-display_title_short: What Really Happened at Roswell?
-display_title: What Really Happened at Roswell?
-heading_title: What Really Happened at Roswell?
-page_heading_title: What Really Happened at Roswell?
+nav_short_title: "Roswell: The Evidence"
+title: "Roswell: The Evidence"
+title_full: "Roswell: The Evidence"
+display_title_short: "Roswell: The Evidence"
+display_title: "Roswell: The Evidence"
+heading_title: "Roswell: The Evidence"
+page_heading_title: "Roswell: The Evidence"
 source_count: 69
 infographic_count: 3
 page_website_name: Roswell

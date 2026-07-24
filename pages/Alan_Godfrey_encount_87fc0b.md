@@ -123,13 +123,13 @@ description: 'The Alan Godfrey encounter is one of Britain’s best-known police
 hero_summary: 'The Alan Godfrey encounter is one of Britain’s best-known police UFO cases: a serving West Yorkshire constable said he met a large, structured object on Burnley Road, Todmorden, while on night duty in late November 1980, experienced missing time, and later described an alleged abduction under hypnosis.'
 layout: default
 permalink: /alan-godfrey-encounter-1980/
-nav_short_title: What Really Happened on Burnley Road?
-title: What Really Happened on Burnley Road?
-title_full: What Really Happened on Burnley Road?
-display_title_short: What Really Happened on Burnley Road?
-display_title: What Really Happened on Burnley Road?
-heading_title: What Really Happened on Burnley Road?
-page_heading_title: What Really Happened on Burnley Road?
+nav_short_title: "The Burnley Road Incident"
+title: "The Burnley Road Incident"
+title_full: "The Burnley Road Incident"
+display_title_short: "The Burnley Road Incident"
+display_title: "The Burnley Road Incident"
+heading_title: "The Burnley Road Incident"
+page_heading_title: "The Burnley Road Incident"
 source_count: 69
 infographic_count: 3
 page_website_name: Godfrey Encounter

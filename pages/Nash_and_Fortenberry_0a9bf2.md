@@ -123,13 +123,13 @@ description: The Nash and Fortenberry sighting was a short but unusually detaile
 hero_summary: The Nash and Fortenberry sighting was a short but unusually detailed UFO report made by two Pan American World Airways pilots, William B. Nash and William H. Fortenberry, on the evening of 14 July 1952 near Newport News and Norfolk, Virginia. Its importance does not rest on photographs, radar confirmation, debris, or a landing trace; none exists.
 layout: default
 permalink: /nash-and-fortenberry-sighting-1952/
-nav_short_title: What Really Happened Over Hampton Roads?
-title: What Really Happened Over Hampton Roads?
-title_full: What Really Happened Over Hampton Roads?
-display_title_short: What Really Happened Over Hampton Roads?
-display_title: What Really Happened Over Hampton Roads?
-heading_title: What Really Happened Over Hampton Roads?
-page_heading_title: What Really Happened Over Hampton Roads?
+nav_short_title: "The Hampton Roads Sighting Record"
+title: "The Hampton Roads Sighting Record"
+title_full: "The Hampton Roads Sighting Record"
+display_title_short: "The Hampton Roads Sighting Record"
+display_title: "The Hampton Roads Sighting Record"
+heading_title: "The Hampton Roads Sighting Record"
+page_heading_title: "The Hampton Roads Sighting Record"
 source_count: 59
 infographic_count: 3
 page_website_name: Nash Fortenberry

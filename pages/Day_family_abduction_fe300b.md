@@ -123,13 +123,13 @@ description: The Day family abduction, usually filed in UFO literature as the Av
 hero_summary: The Day family abduction, usually filed in UFO literature as the Aveley abduction or the Avis family abduction, is a 1974 Essex “missing time” case involving John and Susan Day and their three children on a late-night drive home to Aveley. Its lasting importance is not that it has strong physical proof; it does not.
 layout: default
 permalink: /day-family-abduction-1974/
-nav_short_title: What Really Happened on the Aveley Road?
-title: What Really Happened on the Aveley Road?
-title_full: What Really Happened on the Aveley Road?
-display_title_short: What Really Happened on the Aveley Road?
-display_title: What Really Happened on the Aveley Road?
-heading_title: What Really Happened on the Aveley Road?
-page_heading_title: What Really Happened on the Aveley Road?
+nav_short_title: "The the Aveley Road Incident"
+title: "The the Aveley Road Incident"
+title_full: "The the Aveley Road Incident"
+display_title_short: "The the Aveley Road Incident"
+display_title: "The the Aveley Road Incident"
+heading_title: "The the Aveley Road Incident"
+page_heading_title: "The the Aveley Road Incident"
 source_count: 22
 infographic_count: 3
 page_website_name: Aveley Abduction
